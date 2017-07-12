@@ -1,0 +1,15 @@
+
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Father son teaching excercise
+    Dan Martin (dad) @danmartin70
+    Ryan Martin (7 year old)
+
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Angular JS, Bootstrap
