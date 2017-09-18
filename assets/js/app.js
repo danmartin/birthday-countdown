@@ -9,6 +9,7 @@
         link: function(scope, element) {
           var future;
           future = new Date(scope.date);
+          console.log(Math.floor(new Date().getTime() / 1000));
           $interval(function() {
             var diff;
             diff = Math.floor((future.getTime() - new Date().getTime()) / 1000);
